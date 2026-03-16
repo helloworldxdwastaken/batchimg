@@ -41,7 +41,7 @@ export default function PromptEditor() {
       </p>
 
       <div className="flex flex-wrap gap-2 mb-4">
-        {["{{country}}", "{{landmark}}", "{{icon}}", "{{region}}", "{{code}}"].map((p) => (
+        {["{{country}}", "{{landmark}}", "{{icon}}", "{{region}}", "{{code}}", "{{lighting}}"].map((p) => (
           <code
             key={p}
             className="px-2 py-1 bg-gray-800 text-blue-400 text-xs rounded cursor-pointer hover:bg-gray-700"
@@ -81,7 +81,8 @@ export default function PromptEditor() {
             .replace(/\{\{landmark\}\}/g, "Mount Fuji with cherry blossoms")
             .replace(/\{\{icon\}\}/g, "torii gate")
             .replace(/\{\{region\}\}/g, "Asia")
-            .replace(/\{\{code\}\}/g, "JP")}
+            .replace(/\{\{code\}\}/g, "JP")
+            .replace(/\{\{lighting\}\}/g, "Golden hour warm sunset lighting with long soft shadows and orange-pink sky.")}
         </pre>
       </div>
     </div>

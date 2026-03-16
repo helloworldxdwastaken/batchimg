@@ -1,7 +1,9 @@
-A cartoonish, vibrant, marketing-quality illustration representing {{country}}.
-The scene prominently features {{landmark}} as the main focal point.
-Include a stylized {{icon}} element integrated into the composition.
-Colorful, playful style with clean lines and bold shapes — modern travel poster art.
-Characteristic landscape of {{country}} with warm, inviting lighting.
-No text, no words, no letters, no numbers, no flags, no banners anywhere in the image.
-Square composition, centered, slight vignette effect.
+A vibrant digital travel illustration representing {{country}}.
+The scene prominently features {{landmark}} as the main focal point in a wide panoramic composition.
+Include a stylized {{icon}} element naturally integrated into the scene.
+Include a few small simplified tourist figures (people with backpacks, taking photos) to add life to the scene.
+Style: polished digital illustration with clean vector-like rendering, detailed but simplified architecture and scenery, subtle depth and shading (not fully flat), rich saturated colors — deep blues, warm oranges, vivid greens.
+{{lighting}}
+Characteristic landscape and surroundings of {{country}}.
+No text, no words, no letters, no numbers, no flags, no banners, no watermarks anywhere in the image.
+Square composition, centered.
